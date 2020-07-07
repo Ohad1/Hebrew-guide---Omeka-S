@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+.main-content p {
+  direction: rtl;  /* Right to Left */
+}
