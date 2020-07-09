@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 .main-content p {
-  /*direction: rtl;  /* Right to Left */
-  text-align: right;
+  direction: rtl;  /* Right to Left */
+  /*text-align: right;*/
 }
