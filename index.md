@@ -1,7 +1,8 @@
 
 ## התחברות והורדה של OMEKA S ל RECLAIM HOSTING
 היכנסו ל https://reclaimhosting.com/ ליחצו על products->shared hosting  והירשמו לשרת במסלול "personal".
-[Image](https://github.com/omerdv/Hebrew-guide---Omeka-S/blob/master/resources/shir/hosting-1-05.jpg)
+![Image of hoasting](https://github.com/omerdv/Hebrew-guide---Omeka-S/blob/master/resources/shir/hosting-1-05.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/omerdv/Hebrew-guide---Omeka-S/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
