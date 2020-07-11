@@ -450,7 +450,20 @@ __*ייבוא תבנית משאב*__
 
 במהלך בניית קובץ הcsv תחת העמודה שתכיל "omeka resource" יש לכלול ערך ייחודי כלשהו המיוחד לפריט שאותו תרצו להזין כתוכן של השדה. בדוגמא הבאה העמודה "dcterms:isPartOf" מכילה ערך מזהה של פריט מתבנית "page".
 
-****להוסיף טבלה
+|o:is_public|o:owner|dcterms:resource_class|o:resource_template|o:item_set|dcterms:title|dcterms:description|bibo:volume|bibo:chapter|bibo:number|dcterms:bibleVersion|dcterms:language|dcterms:isPartOf|
+|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.2  |Genesis|1|2|ASV|English; Hebrew|05/02|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.3  |Genesis|1|3|ASV|English; Hebrew|05/03|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.3  |Genesis|1|3|ASV|English; Hebrew|05/07|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.6  |Genesis|1|6|ASV|English; Hebrew|05/08|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.3  |Genesis|1|3|ASV|English; Hebrew|05/16|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.6  |Genesis|1|6|ASV|English; Hebrew|05/16|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.10 |Genesis|1|10|ASV|English; Hebrew|05/17|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.14 |Genesis|1|14|ASV|English; Hebrew|05/17|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.20 |Genesis|1|20|ASV|English; Hebrew|05/18|
+|1|shirmdesign@gmail.com|Text|Bible Reference|18|Genesis|https://biblia.com/bible/asv/Ge1.27 |Genesis|1|27|ASV|English; Hebrew|05/18|
+
+[להורדת הטבלה לחץ כאן](resources/shir/refs_input.csv)
 
 
 לאחר בניית המטה-דאטה ניתן לבצע החלפה של השדה המזהה שהזנתם (כתוכן בטבלה) ב "omeka id" ע"י שימוש בAPI של OMEKA S ועבודה עם ספריית pandas לעריכת קבצי csv. 
