@@ -11,6 +11,10 @@
   direction: ltr;  /* Right to Left */
   text-align: left;
 }
+.main-content h1 {
+  direction: rtl;  /* Right to Left */
+  /*text-align: right;*/
+}
 
 .main-content h2 {
   direction: rtl;  /* Right to Left */
