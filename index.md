@@ -109,8 +109,9 @@ unzip Sharing-1.1.0.zip
 ![Image of terms](resources/shir/terms csv.jpg)
 
 ### דוגמא ל "resource template" וקובץ csv תואם:
-
+מתוך אומקה:
 ![Image of resource template](resources/shir/resource template.jpg)
+קובץ "json" תואם:
 ```json
 {
     "o:label": "Bible Reference",
@@ -208,6 +209,14 @@ unzip Sharing-1.1.0.zip
     }
 }
 ```
+דוגמא לקובץ שניתן לייבא עבור תבנית זו:
+
+
+הסבר מפורט על תהליך העלאה ניתן למצוא בהמשך מדריך זה בפרק המתורגם מתוך ה"user manual" של CSV IMPORT
+
+
+### עבודה איטרטיבית עם קבצי csv:
+
 
 ## תרגום של: https://omeka.org/s/docs/user-manual/modules/csvimport/
 
