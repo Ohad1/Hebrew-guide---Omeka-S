@@ -1,6 +1,6 @@
 
 ## התחברות והורדה של OMEKA S ל RECLAIM HOSTING
-היכנסו ל [reclaimhosting](https://reclaimhosting.com)-, ליחצו על products->shared hosting  והירשמו לשרת במסלול "personal".
+היכנסו ל -[reclaimhosting](https://reclaimhosting.com), ליחצו על products->shared hosting  והירשמו לשרת במסלול "personal".
 ![Image of hosting](resources/shir/hosting-1-05.jpg)
 
 
