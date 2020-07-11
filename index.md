@@ -51,7 +51,7 @@
 
 
 
-## תרגום של: https://omeka.org/s/docs/user-manual/glossary/
+## תרגום של [glossary] (https://omeka.org/s/docs/user-manual/glossary/) מתוך ה"user manual" של OMEKA S
 
 
 
