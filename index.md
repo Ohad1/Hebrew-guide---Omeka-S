@@ -7,10 +7,10 @@
 ![Image of hosting](resources/shir/hosting-1-05.jpg)
 
 לאחר ההרשמה יש להיכנס ל client Area בעזרת מייל משתמש וססמא שהזנתם בעת ההרשמה:
-![Image of hosting2](resources/shir/client erea hoasting.JPG)
+![Image of hosting2](resources/shir/client erea hoasting.jpg)
 
 זה דף הבית בכניסה:
-![Image of hosting3](resources/shir/home client.JPG)
+![Image of hosting3](resources/shir/home client.jpg)
 
 כעת, המנוי האישי מאפשר לכם דומיין יחיד, יש ליצור אותו לפני ההתקנה של OMEKA S :
 1.  היכנסו ל domains-> Register a New Domain:
