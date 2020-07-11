@@ -198,10 +198,15 @@ Title- כותרת,  Rights- זכויות, Type- סוג, Creator- יוצר,  Date
 ![Image of RT4](resources/omer/ResourceTemplate/4.png)
 
 __*Label*__
+
 שינוי ה-Label  הנוכחי (מסומן בכחול) ע"י כתיבת ה-Label החדש לתיבת הטקסט (Alternate).
+
 __*Comment*__
+
 שינוי ההערה הנוכחית (מסומן בירוק) ע"י כתיבת ההערה החדשה לתיבת הטקסט (Alternate).
+
 __*Other options*__
+
 סדרת אפשריות נוספות לשינוי Properties של תבנית המשאב:
 
 1)	Use for resource title  – אם מסומן, מאפשר בחירת Property שישרת ככותרת של המשאב, במקום האופציה הדיפולטיבית (dcterms:title). Property זה יוצג כערך שדה ה-Title.
