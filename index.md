@@ -209,6 +209,8 @@ unzip Sharing-1.1.0.zip
     }
 }
 ```
+[להורדה כקובץ לחץ כאן](resources/shir/Bible_Reference.json)
+
 דוגמא לקובץ שניתן לייבא עבור תבנית זו:
 
 |o:is_public|o:owner|dcterms:resource_class|o:resource_template|o:item_set|dcterms:title|dcterms:description|bibo:volume|bibo:chapter|bibo:number|dcterms:bibleVersion|dcterms:language|dcterms:isPartOf|
