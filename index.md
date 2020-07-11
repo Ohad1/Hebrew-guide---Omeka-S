@@ -47,6 +47,30 @@
 ![Image of install7a](resources/shir/install-7.jpg)
 
 
+## הוספת מודולים (modules) ותבניות אתר (themes) ל OMEKA S 
+
+
+
+## תרגום של: https://omeka.org/s/docs/user-manual/glossary/
+
+
+
+
+## תרגום של: https://omeka.org/s/docs/user-manual/content/resource-template/
+
+
+
+
+## הסבר על בניית קבצי CSV לעבודה עם המודול CSV-IMPORT 
+
+
+
+
+## תרגום של: https://omeka.org/s/docs/user-manual/modules/csvimport/
+
+
+
+
 
 ## Welcome to GitHub Pages
 
