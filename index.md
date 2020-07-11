@@ -17,12 +17,34 @@
 ![Image of domain1](resources/shir/domain-1-01.jpg)
 
 2. יש להכניס שם עבור הכתובת הרצויה וללחוץ על check Availability במידה והכתובת פנויה יתאפשר לכם ללחוץ על "continue" :
-![Image of domain1](resources/shir/domain-2.jpg)
+![Image of domain2](resources/shir/domain-2.jpg)
 
 3. יש לפעול בהמשך ע"פי ההוראות הבסיסיות. בסיום התהליך תוכלו לראות את הדומיין שיצרתם ב "Active Domain" בדף הבית.
 ![Image of domain1](resources/shir/domain-3.jpg)
 
+כעת, ניתן להתקין את OMEKA S :
 
+1. כנסו ל "Cpanel" מדף הבית:	
+![Image of cpanel1](resources/shir/home client- cpanel-02.jpg)
+
+2. לחצו על "All Applications":
+![Image of install1](resources/shir/install-1.jpg)
+
+3. חפשו את "OMEKA S" (קל בעזרת ctrl+f) ולחצו:
+![Image of install2](resources/shir/install-2.jpg)
+
+4. יש ללחוץ על "install this application":
+![Image of install3](resources/shir/install-3.jpg)
+
+5. כעת יש לבחור דומיין עבור ההתקנה של אומקה, שם לאתר של אומקה, שם משתמש, מייל וססמא שישמשו את המנהל (אתם) בכניסה לOMEKA S  (החלונות הרלוונטים מסומנים בתמונה המצורפת). בסיום יש ללחוץ על "install" ולהמתין:
+![Image of install5](resources/shir/install-4-03.jpg)
+
+6. בסיום ההתקנה יופיעו שלושה קישורים (מסומנים) השני מביניהם יוביל להתחברות ל "admin dashboard" ותוכלו להתחיל לעבוד עם OMEKA S :
+![Image of install6](resources/shir/install-5-04.jpg)
+
+7. בכניסה ל"admin dashboard" תתבקשו להזין את המשתמש והססמא שהזנתם בהתקנה, ותוכלו להיכנס לOMEKA S :
+![Image of install7](resources/shir/install-6.jpg)
+![Image of install7a](resources/shir/install-7.jpg)
 
 
 
