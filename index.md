@@ -467,7 +467,7 @@ __*ייבוא תבנית משאב*__
 
 
 לאחר בניית המטה-דאטה ניתן לבצע החלפה של השדה המזהה שהזנתם (כתוכן בטבלה) ב "omeka id" ע"י שימוש בAPI של OMEKA S ועבודה עם ספריית pandas לעריכת קבצי csv. 
-מצורף כאן קוד בסיסי להתחלה עבור פיתוח. כמו כן מידע נוסף על API של OMEKA S זמין בקישור הבא: [https://omeka.org/s/docs/developer/api/](https://omeka.org/s/docs/developer/api/) .
+מצורף כאן קוד בסיסי להתחלה עבור פיתוח, שימו לב כי הוא דורש עריכה חלקית כגון כתובת האתר של אומקה ומפתח ייחודי (הערות והדרכה משולבים בהערות בקוד). כמו כן מידע נוסף על API של OMEKA S זמין בקישור הבא: [https://omeka.org/s/docs/developer/api/](https://omeka.org/s/docs/developer/api/) .
 
 ```python
 import os
