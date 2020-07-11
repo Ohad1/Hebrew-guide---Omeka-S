@@ -587,6 +587,9 @@ if __name__ == "__main__":
     editCSV(sys.argv[1])
 ```
 
+[להורדת הקוד לחץ כאן](resources/shir/code.py)
+[להורדת דוגמאות של קלט ופלט לחץ כאן](resources/shir/input_output_examples.zip)
+
 
 ## תרגום של: https://omeka.org/s/docs/user-manual/modules/csvimport/
 
