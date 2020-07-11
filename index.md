@@ -91,7 +91,50 @@ unzip Sharing-1.1.0.zip
 
 
 ## תרגום של [glossary] (https://omeka.org/s/docs/user-manual/glossary/) מתוך ה"user manual" של OMEKA S
+מילון המונחים שלהלן אמור לעזור בבירור כמה מהמונחים הפחות מוכרים ב-Omeka S. עבור חלק מן המונחים שיוצגו אנו מספקים מונח מקביל בערך מ- Omeka Classic.
 
+כמו כן, שמות המונחים עצמם נשארו באנגלית כפי שהם, ולעיתים הם מופיעים כחלק מההסבר עבור מונחים אחרים. למען הסר ספק, אנו ניתן לכל אחד מן המונחים שיצוינו פה הסבר משל עצמו.
+
+בנוסף, כל המילים המודגשות הן מונחים.
+•	**Class**: סוג של משאב, אשר מוגדר ע"י **Vocabulary**. לרוב, **Vocabulary** מצפה לשימוש של **Classes** מסוימים עם **Properties** מסוימים.
+לדוגמא, **Class** מסוג foaf:Person לא יהיה בעל **Property** dcterms:publisher (מפרסם).
+לעומת זאת, הוא כן יכול להיות בעל **Property** foaf:familyName (שם משפחה).
+מונח מקביל מ-Omeka Classic: Item Type
+
+•	**File**: דאטה המועלה ל- **Installation** ומקושר ישירות עם **Item**.
+מונח מקביל מ-Omeka Classic: File
+
+•	**Global Admin**: משתמש בעל הרשאות שליטה מלאות בארכיון. לרוב, זהו המשתמש שיצר את הארכיון (מי שיצר את ה- **Installation**).
+מונח מקביל מ-Omeka Classic: Superuser
+
+•	**Installation**: מופע התקנה של Omeka S. התקנה זו מכילה **Sites**.
+
+•	**Site**: ארכיון המכיל **Items**. ניתן להתייחס ל-**Site** כאל תיקייה המכילה רשומות. תחת אותו **Installation** יכולים להמצא מס'  **Sites** שונים.
+
+•	**Item**: הרשומות שמהן בנוי ה-**Site**. **Items** ניתנים לשיתוף וזמינים לכל **Site** תחת אותו **Installation**, אלא אם הרשאת שיתוף ה-**Item** בוטלה באופן מפורש.
+
+•	**Item Set**: אוסף של **Items**. **Items** יכולים להשתייך לכל מס' של **Item Sets** בו-זמנית.
+מונח מקביל מ-Omeka Classic: Collection, Items with the same tag
+
+•	**Media**: ייצוגים נוספים או תיאורים של **Item**, מעבר למטה דאטה של **Vocabularies**.
+בדרך כלל, מתייחס ל-**File**(מכל סוג, כולל טקסט או html), אך יכול גם להתייחס למקור data חיצוני כדוגמת סרטון Youtube, מצגת וכדומה.
+
+•	**Property**: סוג של מטה דאטה מוגדר המתאר תכונה כלשהי של משאב / **Item** מסוים.
+למשל, אחד ה-**Properties** הנפוצים הוא dcterms:title, המתאר את הכותרת הראשית המתארת **Item** מסוים. ערכי ה-**Property** יכולים להיות טקסט, משאב של Omeka S, או לינק Url לאתר חיצוני המכיל מידע מסויים.
+מונח מקביל מ-Omeka Classic: Element
+
+•	**Resource Template**: סט **Properties** מוגדר מראש, ו-**Class** (אופציונאלי בלבד), אשר מנחה אותנו בעת יצירת **Items** חדשים בעלי **Properties** מוגדרים מראש.
+לדוגמא, נוכל ליצור **Resource Template** בשם foaf:Person, אשר באמצעותו נוכל ליצור **Items** מסוג (**Class**) foaf:Person, בעלי **Properties** מוגדר מראש (foaf: properties).
+
+•	**Site Admin**: משתמש בעל הרשאות שליטה מלאות ב-**Site**** ספציפי השייך ל-**Installation** כלשהו (באופן שונה מ-**Global Admin** בעל הרשאות השליטה בכל ה-**Sites** הקיימים ב- **Installation**.
+מונח מקביל מ-Omeka Classic: Superuser role
+
+•	**Value**: הערך שבפועל קיים עבור משאב או **Property** מסוים.
+לדוגמא, אם **Item** מסוים הוא בעל ה- **Property** dcterms:title (כותרת של **Item**), אזי ערך אפשרי (**Value**) עבור תכונה זו יכול להיות למשל “Heart of Darkness”. ערכים נוספים יכולים להכיל גם מידע על השפה שבה מבוטא הערך. ערכים יכולים גם להיות משאבים או URI למידע חיצוני (למשל URI שמחזיר דאטה מסוג RDF).
+
+•	**Vocabulary**: אוסף מטה דאטה של **Class** ו-**Properties**, (לרוב מיוצג ע"י קובץ מפורמט RDF), אשר נועד לתאר משאב מסוים. אוספים אלו קיימים ונוצרים באופן חיצוני ע"י Omeka, והם ניתנים ליבוא (תחת הגבלות מסוימות) לתוך Omeka S, במהלך תהליך ההתקנה.
+אחד ה-**Vocabularies** הנפוצים ביותר הוא Dublin Core Terms (או בקיצור, dcterms).
+מונח מקביל מ-Omeka Classic: Element Set
 
 
 
