@@ -588,6 +588,7 @@ if __name__ == "__main__":
 ```
 
 [להורדת הקוד לחץ כאן](resources/shir/code.py)
+
 [להורדת דוגמאות של קלט ופלט לחץ כאן](resources/shir/input_output_examples.zip)
 
 
