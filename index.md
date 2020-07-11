@@ -146,7 +146,7 @@ unzip Sharing-1.1.0.zip
 
 **Resource Templates** מנוהלים ע"י ה-**Admin Dashboard** , אליו ניתן להגיע דרך תפריט המשתמש (ממוקם בצד שמאל של המסך), תחת הטאב **Resource Templates**.
 
-[Image of RT1](resources/omer/ResourceTemplate/1.1.png)
+![Image of RT1](resources/omer/ResourceTemplate/1.1.png)
 
 מצד שמאל למעלה (מסומן בירוק) מצוין מס' דפי ה-items הקיימים (כל רשומה בטבלה היאResource Template) , עם כפתורי מעבר בין הדפים. ניתן לעבור בין הדפים ע"י שימוש בחצים או ע"י כתיבת מס' הדף הרצוי (צריך להיות בטווח האפשרי, למשל בדוגמא זו בין 1 ל-22) ולאחר מכן לחיצה על מקש Enter.
 
@@ -167,7 +167,7 @@ unzip Sharing-1.1.0.zip
 ### משאב בסיסי (Base Resource)
 כל אחד מה- Omeka S Installation מכיל גם תבנית משאב בסיסי אשר מכיל את כל שדות המטה דאטה הדרושים ע"י ה- DPLA ( Digital Public Library of America ). תבנית זו תוצג בטבלת ה- Resource Templates ע"י רשומה בעלת ערך שדה ה- Label: "Base Resource" וללא בעלים (שדה Owner ריק).
 
-[Image of RT2](resources/omer/ResourceTemplate/1.2.png)
+![Image of RT2](resources/omer/ResourceTemplate/1.2.png)
 
 **תבנית המשאב הבסיסי מכיל את השדות הבאים (לפי פורמט Dublin Core):**
 
@@ -178,7 +178,7 @@ Title- כותרת,  Rights- זכויות, Type- סוג, Creator- יוצר,  Date
 
 עמוד יצירת תבנית משאב החדשה מאפשר לנו לבחור Label,  Class, תכונות (Properties) Title ו-Description (dcterms:title ו- dcterms:description בהתאמה) עבור המשאב החדש.
 
-[Image of RT3](resources/omer/ResourceTemplate/1.3.png)
+![Image of RT3](resources/omer/ResourceTemplate/1.3.png)
 
 1)	תחת שדה ה- Label, ניתן להקליד את שם ה-Label של המשאב החדש. 
 2)	ניתן לבחור Class למשאב מתוך רשימה מוגדרת מראש (בחירת Class למשאב היא אופציונלית).
@@ -192,7 +192,7 @@ Title- כותרת,  Rights- זכויות, Type- סוג, Creator- יוצר,  Date
 
 לשם כך, במסך ה- Resource Templates, על מנת לערוך רשומת תבנית משאב כלשהי, נלחץ על אייקון העיפרון (אשר הוצג כבר מקודם). תפתח לנו חלונית בצד ימין אשר תאפשר לנו לערוך את השינויים שנרצה:
 
-[Image of RT4](resources/omer/ResourceTemplate/4.png)
+![Image of RT4](resources/omer/ResourceTemplate/4.png)
 
 __*Label*__
 שינוי ה-Label  הנוכחי (מסומן בכחול) ע"י כתיבת ה-Label החדש לתיבת הטקסט (Alternate).
@@ -229,12 +229,12 @@ Literal, URI, Resource (פירוט למטה).
 
 אם אנו מחליטים בסוף שאין ברצוננו לערוך את תבנית המשאב, ולוותר על שמירת השינויים שביצענו, ניתן פשוט ללחוץ על כפתור ה-Cancel מצד ימין למעלה (מסומן בכחול). 
 
-[Image of RT5](resources/omer/ResourceTemplate/5.png)
+![Image of RT5](resources/omer/ResourceTemplate/5.png)
 
 ### צפייה בתבניות משאב
 לחיצה על כותרת תבנית משאב כלשהי מטבלת ה-Resource Templates תפתח בפנינו תצוגת טבלה של כל ה-Properties ו-Property options עבור תבנית משאב זו.
 
-[Image of RT6](resources/omer/ResourceTemplate/6.png)
+![Image of RT6](resources/omer/ResourceTemplate/6.png)
 
 כל אחד מה-Properties מוצג בשורה נפרדת בטבלה, עם העמודות הבאות:
 •	Original label- הכותרת המקורית + כפתור "שלוש נקודות" אשר לחיצה עליו תציג לנו את ה-Vocabulary, ערך (term) והערה מקורית של ה-property.
@@ -256,7 +256,7 @@ __*ייצוא תבנית משאב*__
 3)	בעמוד צפייה בתבנית המשאב עבור ה- Label הנבחר לייצוא (יפתח לנו בעת לחיצה על ה-Label),
 עלינו ללחוץ על כפתור הייצוא Export אשר נמצא בצד ימין למעלה
 
-[Image of RT7](resources/omer/ResourceTemplate/7.png)
+![Image of RT7](resources/omer/ResourceTemplate/7.png)
 
 •	ייצוא תבנית משאב באופן שתואר תוריד למחשב שלנו קובץ json בעל אותו שם של תבנית המשאב לייצוא. נוכל לחלוק את תבנית המשאב הזו ע"י שליחת הקובץ הנ"ל ושימוש בו בעת ייבוא אצל התקנת Omeka S אחרת.
 
@@ -265,7 +265,7 @@ __*ייבוא תבנית משאב*__
 1)	פתיחת תפריט ה- Resource Templates (ישנו כפתור מתאים במסך הראשי של ההתקנה).
 2)	לחיצה על כפתור ה- Import (ייבוא) אשר נמצא בצד ימין למעלה
 
-[Image of RT8](resources/omer/ResourceTemplate/8.png)
+![Image of RT8](resources/omer/ResourceTemplate/8.png)
 
 3)	בעמוד ייבוא ה-Resource Template שיפתח לנו, יש ללחוץ על הכפתור Choose File.
 לחיצה על כפתור זה תפתח לנו חלונית בחירת קובץ רצוי של תבנית לייבוא מהמחשב שלנו.
@@ -274,7 +274,7 @@ __*ייבוא תבנית משאב*__
 1)	בעמוד הסקירה, נוכל לבדוק שה-properties וה- property options הם תקינים ומתאימים לנו
 2)	תבניות מיובאות אשר השתמשו בחבילות עזר לשם הרחבת ה- property options (כגון Value Suggest או Custom Vocabulary) יציינו בעבורנו בעמודת סוג הדאטה מהו ערך המקור שהיה ללא שימוש בחבילות עזר אלו. נוכל לשנות ערך זה על ידי שימוש בתפריט dropdown במידת הצורך (אם לא מותקנות לנו חבילות עזר אלו, נוכל לבחור רק מהערכים האפשריים הדיפולטיבים).
 
-[Image of RT9](resources/omer/ResourceTemplate/9.png)
+![Image of RT9](resources/omer/ResourceTemplate/9.png)
 
 הערה**: אם ברצוננו לייבא תבנית משאב אשר משתמשת ב**-Custom Vocabulary, יש צורך לבצע יצירה ידנית של ה- Vocabulary המיוחד הזה בהתקנה שלנו **לפני** ביצוע תהליך ייבוא תבנית משאב זו.
 
