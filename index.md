@@ -15,8 +15,10 @@
 כעת, המנוי האישי מאפשר לכם דומיין יחיד, יש ליצור אותו לפני ההתקנה של OMEKA S :
 1.  היכנסו ל domains-> Register a New Domain:
 ![Image of domain1](resources/shir/domain-1-01.jpg)
+
 2. יש להכניס שם עבור הכתובת הרצויה וללחוץ על check Availability במידה והכתובת פנויה יתאפשר לכם ללחוץ על "continue" :
 ![Image of domain1](resources/shir/domain-2.jpg)
+
 3. יש לפעול בהמשך ע"פי ההוראות הבסיסיות. בסיום התהליך תוכלו לראות את הדומיין שיצרתם ב "Active Domain" בדף הבית.
 ![Image of domain1](resources/shir/domain-3.jpg)
 
