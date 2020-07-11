@@ -108,7 +108,7 @@ unzip Sharing-1.1.0.zip
 כותרות העמודות ב CSV יכללו את המונח המתאים עבור השדה. ע"י לחיצה על כל אחת מהסטנדרטים ניתן להגיע לפירוט מלא עבור הכותרות שיש להזין. שיוך שמות באופן הזה לעמודות אינו מחייב אבל מקל מאוד על תהליך הייבוא (import) של קובץ csv. בדוגמא מסומנים בצהוב המונחים שהם כותרות אפשריות לעמודות ( השימוש הוא בהתאמה למה שהוגדר בתבנית של הפריטים אותם המשתמש מעוניין לייבא):
 ![Image of terms](resources/shir/terms csv.jpg)
 
-# דוגמא ל "resource template" וקובץ csv תואם:
+### דוגמא ל "resource template" וקובץ csv תואם:
 
 ![Image of resource template](resources/shir/resource template.jpg)
 ```json
