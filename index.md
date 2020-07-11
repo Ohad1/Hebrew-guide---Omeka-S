@@ -66,9 +66,15 @@ cd modules
 לאחר מכן יופיע ה path מעל חלון הterminal (מסומן בצהוב).
 
 4. השתמשו בפקודת  "wget  link_to_module_download" כדי להוריד את ההתוסף הרצוי לתיקיה :
+```markdown
+wget  https://github.com/omeka-s-modules/Sharing/releases/download/v1.1.0/Sharing-1.1.0.zip
+```
 ![Image of module4](resources/shir/module-4.jpg)
 
 5. השתמשו בפקודת  "unzip name_of_downloaded_file" כדי להוריד את הכיווץ :
+```markdown
+unzip Sharing-1.1.0.zip
+```
 ![Image of module5](resources/shir/module-5.jpg)
 
 6. כעת היכנסו ל "admin dashboard" ב OMEKA S ולחצו על "Modules":
