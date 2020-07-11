@@ -48,6 +48,36 @@
 
 
 ## הוספת מודולים (modules) ותבניות אתר (themes) ל OMEKA S 
+OMEKA S מאפשר להתקין הרחבות שמאפשרות כלים נוספים לעבודה או לתצוגה באתר. ההרחבות זמינות בקישור הבא [https://omeka.org/s/modules/](https://omeka.org/s/modules/)  . כמו כן, יש מספר תבניות אפשריות לאתר שזמינות להורדה בקישור [https://omeka.org/s/themes/](https://omeka.org/s/themes/) . תהליך ההתקנה דומה פרט למיקום קבצי ההתקנה.
+1. כנסו ל "Cpanel" ולחצו על "Terminal":
+![Image of modulel](resources/shir/module-1.jpg)
+
+2. בעת ההתקנה של אומקה נוצרה תיקייה בשרת בשם של הדומיין, המכילה תיקיה בשם "modules" ותיקיה בשם "themes". ניתן לראות אותה ואת כל הקבצים והתיקיות שלכם בשרת ע"י כניסה ל "file manager":
+![Image of modulel-2](resources/shir/module-1-2.jpg)
+![Image of module3](resources/shir/module-3.jpg)
+
+3. כעת בחלון הטרמינל יש לנווט לתיקיה הרצויה, "themes" עבור התקנה של תבנית אתר ו "modules" עבור התקנה של כלים. ניתן לעשות זאת  באמצעות 2 פקודות cd  עם השמות הרלוונטים של התיקיה של הדומיין ואז התיקיה הרצויה:
+```markdown
+cd yourDomainForOmeka
+cd modules
+```
+![Image of module2](resources/shir/module-2.jpg)
+
+לאחר מכן יופיע ה path מעל חלון הterminal (מסומן בצהוב).
+
+4. השתמשו בפקודת  "wget  link_to_module_download" כדי להוריד את ההתוסף הרצוי לתיקיה :
+![Image of module4](resources/shir/module-4.jpg)
+
+5. השתמשו בפקודת  "unzip name_of_downloaded_file" כדי להוריד את הכיווץ :
+![Image of module5](resources/shir/module-5.jpg)
+
+6. כעת היכנסו ל "admin dashboard" ב OMEKA S ולחצו על "Modules":
+![Image of module6](resources/shir/module-6.jpg)
+
+7. במידה והתקנתם "theme"  אין צורך בפעולות נוספות, הוא זמין לכם. במידה והתקנתם "module" יש ללחוץ "install". החל מאותו הרגע הוא זמין לשימוש.
+![Image of module7](resources/shir/module-7.jpg)
+
+* התהליך של התקנת "theme" זהה פרט לעובדה שעליכם לשים לב שאתם בתיקייה המתאימה.לאחר פקודת "unzip" אין צורך בפעולות נוספות.
 
 
 
