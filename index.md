@@ -90,7 +90,9 @@ unzip Sharing-1.1.0.zip
 
 
 
-## תרגום של [glossary] (https://omeka.org/s/docs/user-manual/glossary/) מתוך ה"user manual" של OMEKA S
+## תרגום של glossary מתוך ה"user manual" של OMEKA S
+המקור זמין בקישור:  [https://omeka.org/s/docs/user-manual/glossary/](https://omeka.org/s/docs/user-manual/glossary/)
+
 ### מילון מונחים
 מילון המונחים שלהלן אמור לעזור בבירור כמה מהמונחים הפחות מוכרים ב-Omeka S. עבור חלק מן המונחים שיוצגו אנו מספקים מונח מקביל בערך מ- Omeka Classic.
 
@@ -140,7 +142,10 @@ unzip Sharing-1.1.0.zip
 
 
 
-## תרגום של: https://omeka.org/s/docs/user-manual/content/resource-template/
+
+## תרגום של Resource Templates מתוך ה"user manual" של OMEKA S 
+המקור זמין בקישור:  [https://omeka.org/s/docs/user-manual/content/resource-template/](https://omeka.org/s/docs/user-manual/content/resource-template/)
+
 ### תבנית משאב (Resource Template)
 **Resource Template** הוא סט **Properties** מוגדר מראש, ו-**Class** (אופציונאלי בלבד), אשר מנחה אותנו בעת יצירת **Items** חדשים בעלי **Properties** מוגדרים מראש (ראה דוגמת שימוש במילון המונחים).
 
@@ -592,7 +597,9 @@ if __name__ == "__main__":
 [להורדת דוגמאות של קלט ופלט לחץ כאן](resources/shir/input_output_examples.zip)
 
 
-## תרגום של: https://omeka.org/s/docs/user-manual/modules/csvimport/
+## תרגום של modules->csvimport מתוך ה"user manual" של OMEKA S 
+המקור זמין בקישור:  [https://omeka.org/s/docs/user-manual/modules/csvimport/](https://omeka.org/s/docs/user-manual/modules/csvimport/)
+
 ### CSV Import
 
 מודול ה-CSV Import מאפשרת לנו לייבא Items או משתמשים את התקנת ה-Omeka S שלנו ישירות מקובץ מסוג csv (comma separated values), tsv (tab separated values) או odf (open document format).
