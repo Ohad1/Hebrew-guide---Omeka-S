@@ -10,14 +10,13 @@ Omeka ו Omeka s הן קוד פתוח חינמי המאפשר שיתוף של א
  להנגיש חלקים מרכזיים במדריך הרחב של OMEKA-S על מנת לאפשר לחסרי ניסיון והיכרות עם אומקה למידה והתנסות מהירה עם הפלטפורמה.
 
 ## המדריך כולל:
-  1.	הסבר התחברות והורדה של Omeka-S ל Reclaim Hosting
-  2.	הסבר הוספת מודולים ותבניות אתר בשרת
-  3.	תרגום של: [https://omeka.org/s/docs/user-manual/glossary/](https://omeka.org/s/docs/user-manual/glossary/)
-  4.	תרגום של: [https://omeka.org/s/docs/user-manual/content/resource-template/](https://omeka.org/s/docs/user-manual/content/resource-template/)
-  5.	הסבר כללי וטיפים על בניית קבצי CSV לעבודה עם המודול CSVIMPORT
-  6.	קוד פייתון לדוגמא עם דוקומנטציה ועבודה עם API של אומקה לעבודה איטרטיבית עם הפריטים.
-  7.	תרגום של: [https://omeka.org/s/docs/user-manual/modules/csvimport/](https://omeka.org/s/docs/user-manual/modules/csvimport/)
-
+   1.	הסבר התחברות והורדה של Omeka-S ל Reclaim Hosting
+   2.	הסבר הוספת מודולים ותבניות אתר בשרת
+   3.	תרגום של: [https://omeka.org/s/docs/user-manual/glossary/](https://omeka.org/s/docs/user-manual/glossary/)
+   4.	תרגום של: [https://omeka.org/s/docs/user-manual/content/resource-template/](https://omeka.org/s/docs/user-manual/content/resource-template/)
+   5. הסבר על בניית קבצי CSV לעבודה עם המודול CSV-IMPORT
+   6.	קוד פייתון לדוגמא עם דוקומנטציה ועבודה עם API של אומקה לעבודה איטרטיבית עם הפריטים.
+   7.	תרגום של: [https://omeka.org/s/docs/user-manual/modules/csvimport/](https://omeka.org/s/docs/user-manual/modules/csvimport/)
 
 ## התחברות והורדה של OMEKA S ל RECLAIM HOSTING
 היכנסו -ל [reclaimhosting](https://reclaimhosting.com), ליחצו על products->shared hosting  והירשמו לשרת במסלול "personal".
