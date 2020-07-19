@@ -2,20 +2,21 @@
 מדריך זה נוצר במסגרת פרוייקט [בקורס מדעי הרוח הדיגיטליים](https://www.cs.bgu.ac.il/~tdh202/Main), בהנחיית דר' יעל נצר, המחלקה למדעי המחשב, אוניברסיטת בן גוריון.
 
 ## הקדמה
-Omeka ו Omeka s הן קוד פתוח חינמי המאפשר שיתוף של אוספים דיגיטליים ויצירת תערוכות מקוונות עשירות במדיה מגוונת (תמונות, קישורים, תצוגה על מפה, וידאו וכדומה).  Omeka s היא גרסא מתקדמת יותר עם יותר אפשרויות, ובין היתר מאפשרת יצירה של מספר אתרים המקושרים לאותו מאגר מידע. בניית האוספים מבוססת סטנדרטים נגישים של מטאדאטה כגון: Bibliographic Ontology ,Dublin Core המאפשרים אפיון פריטים באוסף תוך התייחסות למאפיינים של מבנה, צורה ותוכן. ההנגשה באופן הזה מאפשרת חיפוש מתקדם ושאלת שאלות מחקר וניתוח של קריאה מרחוק על כל אוסף שנבנה באופן זה. כמו כן, קיימים כלים נוספים (modules) שניתן להתקין המרחיבים את מגוון האפשרויות. מידע נוסף אודות אומקה זמין בקישור הבא: [https://omeka.org/about/project/](https://omeka.org/about/project/) 
+Omeka ו Omeka s הן קוד פתוח חינמי המאפשר שיתוף של אוספים דיגיטליים ויצירת תערוכות מקוונות עשירות במדיה מגוונת (תמונות, קישורים, תצוגה על מפה, וידאו וכדומה).  Omeka s היא גרסא מתקדמת יותר עם יותר אפשרויות, ובין היתר מאפשרת יצירה של מספר אתרים המקושרים לאותו מאגר מידע. בניית האוספים מבוססת סטנדרטים נגישים של מטאדאטה כגון: Bibliographic Ontology ,Dublin Core המאפשרים אפיון פריטים באוסף תוך התייחסות למאפיינים של מבנה, צורה ותוכן. ההנגשה באופן הזה מאפשרת חיפוש מתקדם ושאלת שאלות מחקר וניתוח של קריאה מרחוק על כל אוסף שנבנה באופן זה. כמו כן, קיימים כלים נוספים (modules) שניתן להתקין המרחיבים את מגוון האפשרויות. מידע נוסף אודות אומקה זמין בקישור הבא: [https://omeka.org/about/project/](https://omeka.org/about/project/).
+
 התוכנה רצה על שרת וניתנת להורדה בחינם באופן לוקאלי למחשב (local host). כדי לייצר ארכיון דיגיטלי שניתן לפרסם ברשת יש לעבוד עם שרת שאינו לוקאלי. Reclaim Hosting נותנים שירות של התקנה פשוטה וקלה בשרת ולכן מומלץ לעבוד דרכם.
 
 ## מטרת הפרוייקט
  להנגיש חלקים מרכזיים במדריך הרחב של OMEKA-S על מנת לאפשר לחסרי ניסיון והיכרות עם אומקה למידה והתנסות מהירה עם הפלטפורמה.
 
 ## המדריך כולל:
-1.	הסבר התחברות והורדה של Omeka-S ל Reclaim Hosting
-2.	הסבר הוספת מודולים ותבניות אתר בשרת
-3.	תרגום של: [https://omeka.org/s/docs/user-manual/glossary/](https://omeka.org/s/docs/user-manual/glossary/)
-4.	תרגום של: [https://omeka.org/s/docs/user-manual/content/resource-template/](https://omeka.org/s/docs/user-manual/content/resource-template/)
-5.	הסבר כללי וטיפים על בניית קבצי CSV לעבודה עם המודול CSVIMPORT
-6.	קוד פייתון לדוגמא עם דוקומנטציה ועבודה עם API של אומקה לעבודה איטרטיבית עם הפריטים.
-7.	תרגום של: [https://omeka.org/s/docs/user-manual/modules/csvimport/](https://omeka.org/s/docs/user-manual/modules/csvimport/)
+  1.	הסבר התחברות והורדה של Omeka-S ל Reclaim Hosting
+  2.	הסבר הוספת מודולים ותבניות אתר בשרת
+  3.	תרגום של: [https://omeka.org/s/docs/user-manual/glossary/](https://omeka.org/s/docs/user-manual/glossary/)
+  4.	תרגום של: [https://omeka.org/s/docs/user-manual/content/resource-template/](https://omeka.org/s/docs/user-manual/content/resource-template/)
+  5.	הסבר כללי וטיפים על בניית קבצי CSV לעבודה עם המודול CSVIMPORT
+  6.	קוד פייתון לדוגמא עם דוקומנטציה ועבודה עם API של אומקה לעבודה איטרטיבית עם הפריטים.
+  7.	תרגום של: [https://omeka.org/s/docs/user-manual/modules/csvimport/](https://omeka.org/s/docs/user-manual/modules/csvimport/)
 
 
 ## התחברות והורדה של OMEKA S ל RECLAIM HOSTING
