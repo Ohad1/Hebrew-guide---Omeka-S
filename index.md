@@ -602,7 +602,7 @@ if __name__ == "__main__":
 
 ### CSV Import
 
-מודול ה-CSV Import מאפשרת לנו לייבא Items או משתמשים את התקנת ה-Omeka S שלנו ישירות מקובץ מסוג csv (comma separated values), tsv (tab separated values) או odf (open document format).
+מודול ה-CSV Import מאפשר לנו לייבא Items או משתמשים את התקנת ה-Omeka S שלנו ישירות מקובץ מסוג csv (comma separated values), tsv (tab separated values) או odf (open document format).
 
 ### הכנת קובץ ה-CSV לייבוא
 
